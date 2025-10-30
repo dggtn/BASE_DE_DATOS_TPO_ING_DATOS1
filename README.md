@@ -1,1 +1,2 @@
-#Base de datos relacional usando mysql server 2022 en base a una agencia de viajesde datos relacional usando mysql server 2022 en base a una agencia de viajes
+#Base de datos relacional usando mysql server 2022:
+Sobre  una agencia de viajesde
