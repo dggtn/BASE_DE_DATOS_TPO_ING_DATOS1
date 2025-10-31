@@ -78,3 +78,6 @@ INSERT INTO dbo.Paquete_Servicio (idServicio,idPaquete) VALUES
 ('6', '5'),
 ('7', '6'),
 ('8', '7');
+
+SELECT * FROM Clientes
+WHERE	DATEDIFF(YEAR, fechaNacimiento, GETDATE()) >= 18;
